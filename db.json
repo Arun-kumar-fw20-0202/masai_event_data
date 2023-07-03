@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Arun",
+      "age": "21",
+      "place": "Delhi",
+      "batch_name": "fw20",
+      "profession": "full stack",
+      "id": 1
+    }
+  ]
+}
